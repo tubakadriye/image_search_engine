@@ -58,5 +58,7 @@ button {
     flex-wrap: wrap;
 } */
 
-
+img:hover {
+    transform: scale(1.1);
+}
 
